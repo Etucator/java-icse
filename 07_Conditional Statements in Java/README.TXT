@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Chapter 7 - Conditional Structures
+PURPOSE OF PROJECT: Understand Conditional Statements in Java
+VERSION or DATE: May-2021
+HOW TO START THIS PROJECT: Install BlueJ
+AUTHORS: Victor Banerjee
+USER INSTRUCTIONS: Etucator Organization
